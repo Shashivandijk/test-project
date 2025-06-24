@@ -1,0 +1,9 @@
+Roses are red,  
+Commits are neat,  
+Pushing to GitHub  
+Feels like a feat.
+
+Branches may split,  
+Merges may fight,  
+But every good coder  
+Commits late at night.
